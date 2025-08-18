@@ -2,7 +2,7 @@
 
    
 <div id="gifochka" align="center">
-  <img src="https://i.imgur.com/HpgUswV.png" width="1000"/>
+  <img src="https://imgur.com/a/aNjDNBj" width="1000"/>
 
 <br>
 
