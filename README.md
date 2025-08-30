@@ -1,7 +1,7 @@
 
 
    
-<div id="gifochka" align="center">
+<div id="main_art" align="center">
   <img src="https://i.imgur.com/cwJeJRH.jpeg" width="847"/>
 
 <br>
