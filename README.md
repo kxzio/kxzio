@@ -10,9 +10,9 @@
 
 <span style="line-height:0.5">&nbsp;</span>
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kxzio&background=413566&border=00000000&stroke=b8c9a9&ring=91a983&fire=ffffff&currStreakNum=ffffff&sideNums=b8c9a9&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="540" height="240"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxzio&layout=compact&title_color=b8c9a9&text_color=ffffff&icon_color=b8c9a9&bg_color=413566&hide_border=true" width="300" height="240" style="margin-top:-50px;"/>
+<div style="display: flex;">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kxzio&background=413566&border=00000000&stroke=b8c9a9&ring=91a983&fire=ffffff&currStreakNum=ffffff&sideNums=b8c9a9&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="490" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxzio&layout=compact&title_color=b8c9a9&text_color=ffffff&icon_color=b8c9a9&bg_color=413566&hide_border=true" width="350" height="210" style="margin-top:-50px;"/>
 </div>
 
 
