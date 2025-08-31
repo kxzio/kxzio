@@ -6,8 +6,11 @@
 
 <br>
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxzio&layout=compact&title_color=91a983&text_color=FFFFFF&icon_color=91a983&bg_color=413566&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kxzio&background=413566&border=00000000&stroke=91a983&ring=91a983&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=91a983&currStreakLabel=91a983&sideLabels=91a983&dates=FFFFFF) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxzio&layout=compact&title_color=b8c9a9&text_color=ffffff&icon_color=b8c9a9&bg_color=413566&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=kxzio&background=413566&border=00000000&stroke=b8c9a9&ring=b8c9a9&fire=ffffff&currStreakNum=ffffff&sideNums=b8c9a9&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff) |
 |---|---|
+
+
+
 
 
 
